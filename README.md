@@ -1,1 +1,5 @@
-# Semester_Project
+# SEMESTER_PROJECT
+# Project Name:YAA MANDY PAYROLL MANAGEMENT SYSTEM
+# Project By: OWUSU Mandy Yaa Dankwah
+# IT B CLASS
+# INDEX: UEB3206122
